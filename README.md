@@ -1,4 +1,4 @@
-# The Movie Databasee (IMDb Clone)
+# The Movie Database (IMDb Clone)
 
 Welcome to the IMDb Clone project! This project is built using Next.js 14 and Tailwind CSS, with data fetched from the TMDB API. The aim is to create a movie database website similar to IMDb, featuring functionalities such as movie listings, detailed movie pages, search, and dark mode.
 
